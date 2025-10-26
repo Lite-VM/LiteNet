@@ -8,3 +8,8 @@ IPv4/IPv6 一键网络切换工具
 ```
  wget -O LiteNet https://raw.githubusercontent.com/lite-vm/LiteNet/main/LiteNet && chmod +x LiteNet && ./LiteNet 
 ```
+
+如果服务器只有IPV6执行
+```
+wget -6 -O LiteNet https://raw.githubusercontent.com/lite-vm/LiteNet/main/LiteNet && chmod +x LiteNet && ./LiteNet
+```
